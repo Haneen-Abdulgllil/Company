@@ -21,7 +21,7 @@ html,body{
     .social_icon span{
     font-size: 30px;
     margin-left: 20px;
-    color: #FFC312;
+    color: rgb(228, 128, 5);
     }
     
     .social_icon span:hover{
@@ -35,13 +35,13 @@ html,body{
     
     .social_icon{
     position: absolute;
-    left: 250px;
+    left: 50%;
     top: -35px;
     }
     
     .input-group-prepend span{
     width: 50px;
-    background-color: #FFC312;
+    background-color: rgb(228, 128, 5);
     color: black;
     border:0 !important;
     }
@@ -61,7 +61,7 @@ html,body{
     
     .login_btn{
     color: black;
-    background-color: #FFC312;
+    background-color: rgb(228, 128, 5);
     width: 100px;
     }
     
